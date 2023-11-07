@@ -27,3 +27,23 @@ AlgoCraftsman is an innovative platform designed to inspire and connect students
 We would love for you to contribute to the AlgoCraftsman community. Here are some ways to do that:
 
 - Share your ideas and projects for algorithm applications.
+
+- Participate in discussions and provide valuable insights.
+
+- Help improve the platform by providing feedback and suggestions.
+
+- Contribute code to enhance the user experience.
+
+## Community
+
+- [AlgoCraftsman Website](https://www.AlgoCraftsman.com)
+- [Community Forum](https://forum.algocraftsman.com)
+- [Twitter](https://x.com/AlgoCraftsman)
+- [LinkedIn](https://www.linkedin.com/company/algocraftsman)
+- [Instagram](https://www.instagram.com/algocraftsman)
+
+## Acknowledgments
+
+We extend our gratitude to all algorithm enthusiasts who have made this project possible by contributing ideas, projects, and knowledge. Special thanks to PhD Bruno Masquio.
+
+Start exploring and inspiring the real world with the algorithms you love!
